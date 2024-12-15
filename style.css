@@ -1,0 +1,39 @@
+body{
+    margin: 0px;
+
+}
+main{
+    margin-left: auto;
+    margin-right: auto;
+}
+header{
+    display: flex ;
+    border: solid 1px;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.384);
+    
+}
+
+.content {
+    display: flex;
+    border: solid 1px;
+    justify-content: start;
+}
+.cad{
+    background-color: green;
+    border: transparent;
+    
+}
+.prix{
+    font-size: 50px;
+    font-weight: bolder;
+}
+.deco{
+    text-decoration:line-through ;
+
+}
+.deco1{
+    color: red;
+    
+}
